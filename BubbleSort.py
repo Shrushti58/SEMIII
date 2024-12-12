@@ -16,12 +16,6 @@ def selection(mark):
                 mark[i]=temp
     return mark[-5:][::-1]
 
-
-
-
-
-
-
 n=int(input("Enter total no of students"))
 print("Enter percentage of student")
 mark=[]
